@@ -209,6 +209,7 @@ a:hover {
 .socials ul li {
   display: inline-block;
 }
+
 .socials .ico-circle {
   height: 40px;
   width: 40px;
@@ -249,6 +250,7 @@ a:hover {
   border-radius: 50%;
   line-height: 1.55;
   margin: 0 auto;
+  padding-top: 4px;
   text-align: center;
   box-shadow: 0 0 0 10px #0078ff;
   display: block;
